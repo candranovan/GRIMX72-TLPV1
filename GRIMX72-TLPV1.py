@@ -29,7 +29,7 @@ clear
 subrek_anying
 clear
 sleep 0.1
-printf "${u}╔═╗╦═╗╔═╗╔╦╗     ${bi}╔═╗╔═╗╗  ╗";printf "\n${u}╚═╗╠═╝╠═╣║║║ ${m}<${h}•${m}> ${bi}║  ╠═╣║  ║";printf "\n${u}╚═╝╩  ╩ ╩╩ ╩     ${bi}╚═╝╩ ╩╚═╝╚═╝ ${k}New";printf "\n${b}══════════════════════════════════";printf "\n${b}=${m}[ ${pu}Author ${m}: ${bi}Candra-Oi";printf "\n${b}=${m}[ ${pu}Youtube${m}: ${bi}GRIMX 72";printf "\n${b}=${m}[ ${pu}Github ${m}: ${hg}github.com/candranovan${p}";printf "\n${b}══════════════════════════════════";sleep 0.1;printf $p"\n[${h}+${p}] ${k}Contoh ${m}: ${p}85xxxxxxxxx\n";gaskeun_lah_anying
+printf "${u}╔═╗╦═╗╔═╗╔╦╗     ${bi}╔═╗╔═╗╗  ╗";printf "\n${u}╚═╗╠═╝╠═╣║║║ ${m}<${h}•${m}> ${bi}║  ╠═╣║  ║";printf "\n${u}╚═╝╩  ╩ ╩╩ ╩     ${bi}╚═╝╩ ╩╚═╝╚═╝ ${k}V1";printf "\n${b}══════════════════════════════════";printf "\n${b}=${m}[ ${pu}Author ${m}: ${bi}Candra-Oi";printf "\n${b}=${m}[ ${pu}Youtube${m}: ${bi}GRIMX 72";printf "\n${b}=${m}[ ${pu}Github ${m}: ${hg}github.com/candranovan${p}";printf "\n${b}══════════════════════════════════";sleep 0.1;printf $p"\n[${h}+${p}] ${k}Contoh ${m}: ${p}85xxxxxxxxx\n";gaskeun_lah_anying
 }
 gaskeun_lah_anying(){
 	sleep 0.5
